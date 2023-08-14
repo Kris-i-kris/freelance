@@ -2,6 +2,7 @@ package ru.netology.javaqa.javaqamvn.services;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
 public class freelanceTest {
 
     @Test
