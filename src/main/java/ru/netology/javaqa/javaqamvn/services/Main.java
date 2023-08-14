@@ -1,0 +1,11 @@
+package ru.netology.javaqa.javaqamvn.services;
+
+public class Main {
+    public static void main(String[] args) {
+        freelanceTest service = new freelanceTest();
+    }
+    }
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
